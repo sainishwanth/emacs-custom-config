@@ -1,0 +1,22 @@
+
+;; ----- smex-history -----
+(
+ package-install
+ dired-prev-dirline
+ dired-prev-subdir
+ clipboard-yank
+ vterm
+ projectile-add-known-project
+ customize-themes
+)
+
+;; ----- smex-data -----
+(
+ (vterm . 4)
+ (customize-themes . 2)
+ (package-install . 6)
+ (clipboard-yank . 6)
+ (projectile-add-known-project . 1)
+ (dired-prev-subdir . 2)
+ (dired-prev-dirline . 1)
+)
